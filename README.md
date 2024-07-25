@@ -15,7 +15,7 @@ You don't have to do it, but if you feel like you want to support this repo, Ple
 # Installation
 Type this command:
 ```
-haxelib git flxanimate-pfunk https://github.com/Danya20072019/flxanimate
+haxelib git flxanimate-pfunk https://github.com/Danya20072019/flxanimate-pfunk
 ```
 on your terminal or command prompt.
 
