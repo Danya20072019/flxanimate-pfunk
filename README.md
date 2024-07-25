@@ -31,16 +31,13 @@ In case that you have any questions or problems about the project, you can conta
 
 # How to install?
 
-## 1. Haxelib
+You should check first of all if you have [Git](https://git-scm.com) installed before typing
 
-The Haxe Library Manager (also known as Haxelib) is the manager that lets you use, download and upload libraries that are inside Haxe's ecosystem.
+```
+haxelib git flxanimate-pfunk https://github.com/Danya20072019/flxanimate-pfunk
+```
 
-you can download it by typing `haxelib install flxanimate` on your terminal or command prompt.
-
-## 2. Git
-
-Git is an open-sourced version control system designed to handle every type of project in Github, in this case, FlxAnimate. You should check first of all if you have [Git](https://git-scm.com) 
-installed before typing `haxelib git flxanimate https://github.com/Dot-Stuff/flxanimate` on your terminal or command prompt.
+on your terminal or command prompt.
 
 # How to use it?
 
