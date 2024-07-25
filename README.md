@@ -13,24 +13,9 @@ You don't have to do it, but if you feel like you want to support this repo, Ple
 * Put a solution to the memory leakage 
 
 # Installation
-
-there are two ways of downloading FlxAnimate:
-
-## 1. By haxelib:
-
-Normally, haxelib tries (but sometimes fails) to be the most stable version of it.
-
-You can download it by typing:
+Type this command:
 ```
-haxelib install flxanimate
-```
-in your terminal or command prompt.
-
-## 2. By git:
-
-if you want to use the latest commits that are released from time to time, type this command:
-```
-haxelib git flxanimate https://github.com/Dot-Stuff/flxanimate
+haxelib git flxanimate-pfunk https://github.com/Danya20072019/flxanimate
 ```
 on your terminal or command prompt.
 
