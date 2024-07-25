@@ -34,7 +34,7 @@ In case that you have any questions or problems about the project, you can conta
 You should check first of all if you have [Git](https://git-scm.com) installed before typing
 
 ```
-haxelib git flxanimate-pfunk https://github.com/Danya20072019/flxanimate-pfunk
+haxelib git flxanimate-pfunk https://github.com/Danya20072019/flxanimate-pfunk dev
 ```
 
 on your terminal or command prompt.
